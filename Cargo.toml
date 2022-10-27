@@ -6,5 +6,5 @@ members = [
 version = "0.1.0"
 edition = "2021"
 authors = ["Arnab De<arkrde@gmail.com>, Debomita Saha De<dsahade@gmail.com>"]
-license-file  = "MIT OR Apache-2.0"
+license  = "MIT OR Apache-2.0"
 description = "C Codebase translated from C for Bryant's CS-APP book"
